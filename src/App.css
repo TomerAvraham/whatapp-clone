@@ -1,0 +1,24 @@
+.App {
+  width: 80vw;
+  max-width: 1200px;
+  height: 85vh;
+  display: grid;
+  grid-template-rows: 10% 90%;
+  grid-template-columns: 30% 70%;
+  box-shadow: 10px 10px 40px 3px rgba(0, 0, 0, 0.75);
+  background-image: url("https://preview.redd.it/qwd83nc4xxf41.jpg?width=640&crop=smart&auto=webp&s=e82767fdf47158e80604f407ce4938e44afc6c25");
+}
+
+.App > * {
+  border: black 1px solid;
+}
+
+header {
+  padding: 10px;
+  grid-column: 1/-1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #25d366;
+  color: white;
+}

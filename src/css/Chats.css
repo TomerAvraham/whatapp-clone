@@ -1,0 +1,9 @@
+.chats {
+  position: relative;
+  overflow-y: auto;
+  max-height: 80%;
+
+}
+
+
+

@@ -1,0 +1,10 @@
+.header__image {
+    width: 45px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

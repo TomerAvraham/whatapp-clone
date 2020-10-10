@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contactCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    border-bottom: solid 1px black;
+    padding-right: 15px ;
+    height: 100px;
+}
+
+.inner-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+}
+
+.image{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px ;
+    border-radius: 50%;
+}

@@ -1,0 +1,11 @@
+.message-box{
+    border: 1px solid black;
+    margin: 5px ;
+    width: 40%;
+    padding: 15px;
+    background-color: white;
+}
+
+h1{
+    font-size: 20px;
+}
